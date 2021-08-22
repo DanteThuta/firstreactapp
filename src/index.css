@@ -71,6 +71,11 @@ body {
   justify-content: space-between;
 }
 
+.taskicon{
+  /* float: right; */
+  margin-right: 0;
+}
+
 .add-form {
   margin-bottom: 40px;
 }
